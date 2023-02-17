@@ -208,7 +208,7 @@ ul {
   }
 
   .header .container .navbar > li > a {
-    font-size: 17px;
+    font-size: 22px;
     color: black;
     display: flex;
     justify-content: center;
@@ -222,7 +222,7 @@ ul {
   @media (max-width: 767px) {
     .header .container .navbar > li > a {
       padding: 10px;
-      font-size: 20px;
+      font-size: 17px;
       font-weight: 500;
       height: 45px;
       margin-top: 15px;  
